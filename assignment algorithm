@@ -1,0 +1,26 @@
+Start
+step 1 -> Declare variable: sentence_length,
+step 2 -> initialize sentence_length to 0
+step 3 -> read the input sentence as a string that end with point "."
+step 4 -> iterate through each character of the sentence.
+step 5 -> increament sentence_length by 1 for each character.
+step 6 -> print sentence_length
+Stop
+
+Start
+step 1 -> Declare varaiable: wordCount
+step 2 -> initialize wordCount to 0
+step 3 -> read input sentence as a string that end with point '.'
+step 4 -> initialize wordCorrect to false (this variable indicate that character is part of word )  
+step 5 -> iterate through each word of the sentence
+step 6 -> increment by 1 if character = ' ' wordCorrect is true else wordCorrect is false when character != ' '.
+step 7 -> print wordCount
+Stop
+
+Start
+step 1 -> Declare vraiable: vowelCount
+step 2 -> initialize vowelCount to 0
+step 3 -> read througn input sentence as a string
+step 4 -> Define set of vowel (a, e, i ,o, u).
+step 5 -> iterate through each character in the sentence
+step 6 -> if the character is vowel increament vowelCount by 1, else iterate to the end of sentence.
